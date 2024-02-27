@@ -1,8 +1,51 @@
 /* Stylesheet by Qianheng Zhang, 2024 */
 
-#map{
+/* #map{
   position: absolute;
   top: 0;
   bottom: 0;
   width: 100%;
+} */
+#map {
+  height: 400px;
+  width: 70%;
+  display: inline-block;
+}
+
+.leaflet-popup-content p {
+  margin: 0.2em 0;
+}
+
+#panel {
+  width: 25%;
+  padding: 20px;
+  display: inline-block;
+  vertical-align: top;
+  text-align: center;
+  line-height: 42px;
+}
+
+#panel img {
+  width: 20%;
+  height: 20%;
+}
+
+.range-slider {
+  width: 55%;
+}
+
+.step {
+  width: 20%;
+}
+
+.step img {
+  width: 100%;
+}
+
+#forward {
+  float: right;
+}
+
+#reverse {
+  float: left;
 }
