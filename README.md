@@ -1,2 +1,2 @@
-# Unit-1
-UWM Geog575 Activity 1
+# Unit-2
+UWM Geog575 Lab 1
